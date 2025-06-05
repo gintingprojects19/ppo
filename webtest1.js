@@ -14,7 +14,7 @@ tbl.addEventListener("click",function(){
         konfirmasi.style.display="block";
         textkonfirmasi.innerHTML="Anda memilih Bahasa Inggris kelas X. Apakah pilihan Anda sudah benar  ? ";
         yes.addEventListener("click",function(){
-            window.location.href="https://github.com/";
+            window.location.href="opentest1.html";
             konfirmasi.style.display="none";
         })
         no.style.display="block";
