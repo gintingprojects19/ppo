@@ -30,7 +30,7 @@ tbl.addEventListener("click",function(){
         textkonfirmasi.innerHTML="Anda memilih Bahasa Inggris kelas XI. Apakah pilihan Anda sudah benar  ? ";
         
         yes.addEventListener("click",function(){
-            window.location.href="https://kompas.com/";
+            window.location.href="https://gintingprojects19.github.io/assesment/";
             konfirmasi.style.display="none";
         })
         no.style.display="block";
