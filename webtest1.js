@@ -97,7 +97,7 @@ tbl.addEventListener("click",function(){
         textkonfirmasi.innerHTML="Anda memilih Informatika kelas XII. Apakah pilihan Anda sudah benar  ? ";
         
         yes.addEventListener("click",function(){
-            window.location.href="https://ui.ac.id/";
+            window.location.href="https:https://gintingprojects19.github.io/assesment//";
             
             konfirmasi.style.display="none";
         })
